@@ -55,7 +55,7 @@ public class Main {
 
 		long endTime2 = System.nanoTime();
 
-		System.out.println("Problem 1 was solved in " + (endTime2 - startTime2) + " nanoseconds.");
+		System.out.println("Problem 2 was solved in " + (endTime2 - startTime2) + " nanoseconds.");
 
 	}
 
